@@ -1,4 +1,4 @@
-#Welcome to the official GitHub repository of bioinformatics tools developed by California Department of Public Health (CDPH) Center for Laboratory Sciences.
+# Welcome to the official GitHub repository of bioinformatics tools developed by California Department of Public Health (CDPH) Center for Laboratory Sciences.
 
 We are committed to promoting open government principles by making these bioinformatics resources publicly available while also fostering innovation and encouraging collaboration. It is important to note that all software presented here is offered as-is, without warranties or guarantees.
 
