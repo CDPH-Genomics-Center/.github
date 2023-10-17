@@ -2,7 +2,7 @@
 
 We are committed to promoting open government principles by making these bioinformatics resources publicly available while also fostering innovation and encouraging collaboration. We firmly believe in the collective potential of the scientific community to enhance and adapt these solutions to evolving needs of public health.
 
-<br/><br/>
+<br/>
 
 ### ***Disclaimer***
 
